@@ -1,0 +1,8 @@
+name =input('What is your name? ')
+age=input('Enter your AGE:')
+height=input('Enter your Height')
+weight=input('Enter your Weight')
+qualification=input('Enter your Qualification')
+address=input('Enter your address')
+ph_num=input('Enter your mobile number')
+print(f'HI {name}, your age is {age}, your height is {height}, your weight is {weight}, your qualification is {qualification}, you are residing in {address}, and your contact is {ph_num}.')
